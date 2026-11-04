@@ -1,6 +1,6 @@
 # Sistema-de-Farmacia-Php-y-Mysql-Gratis
 Panel de Admistración del sistema de venta en Php y Mysql
-![Pantalla de inicio](assets\panel-inicio.png)
+![Pantalla de inicio](assets/panel-inicio.png)
 
 Plantilla Utilizada
 https://github.com/creativetimofficial/material-dashboard
