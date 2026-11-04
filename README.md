@@ -19,3 +19,6 @@ Sistema de ventas y administración de farmacia hecho con PHP y MySQL.
 4. Importar el archivo v_farmacia.sql en esa base de datos.
 5. Verificar en conexion.php que el puerto y el nombre de la base coincidan (puerto: [3306]).
 6. Abrir http://localhost/Sistema_Farmacia/ en el navegador.
+7. user administrador
+    usuario: admin 
+    clave: admin
